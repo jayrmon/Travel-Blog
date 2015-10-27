@@ -1,0 +1,111 @@
+h1 {
+	font-weight: normal;
+	font-family: Arial;
+	position: absolute;
+	top: 0px;
+	right: 965px;
+	width: 250px;
+}
+
+h1 a {
+	color: orange;
+	text-decoration: none;
+	width: 15%;
+	line-height:2;
+}
+
+#container {
+	width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#adventure {
+	font-family: Arial;
+	font-weight: normal;
+	color: silver;
+	position: absolute;
+	padding-top: 20px;
+	top: 0px;
+	left: 450px;
+	width: 400px;
+}
+
+#nav a {
+	display: inline-block;
+	margin-top: 2cm;
+	font-family: Arial;
+	text-decoration: none;
+	background-color: #C0C0C0;
+	color: white;
+}
+
+#nav {
+	word-spacing: 2em;
+	font-size: 85%;
+}
+
+img {
+	width: 70%;
+}
+
+p {
+	width: 70%;
+	color: #7A7A7A;
+	font-size: 85%;
+}
+
+p.article1:first-letter {
+	font-size: 500%;
+	float: left;
+	padding-right: 5px;
+}
+
+p.article2:first-letter {
+	font-size: 500%;
+	float: left;
+	padding-right: 5px;
+}
+
+article p {
+	padding-bottom: 15px;
+}
+
+h4 a {
+	color: orange;
+	text-decoration: none;
+	font-family: Arial;
+	text-align: right;
+}
+
+ul a {
+	color: orange;
+	text-decoration: none;
+	font-family: Arial;
+	font-size: 80%;
+}
+
+.right {
+    position:absolute;
+    right:0; top:125px; bottom: 0;
+    width: 250px;
+    }
+
+#Posts {
+	position:absolute;
+    right: 30px; top: 660px; bottom: 92px;
+    width: 230px;
+}    
+
+h3 {
+	font-weight: normal;
+	font-family: Arial;
+	color: #CCCCCC;	
+}
+
+h2 a {
+	font-weight: normal;
+	font-family: Arial;
+	color: black;
+	text-decoration: none;
+}
